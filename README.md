@@ -83,8 +83,18 @@ The machine learning algorithm trained for detecting fake
 The project represents a significant step towards combating the proliferation of misinformation in digital ecosystems. By leveraging advanced natural language processing techniques, particularly based on BERT, the project demonstrates the feasibility of automating the detection of fake news articles with high accuracy.
 
 ## 6. Contributions <a name="contributions"></a>
+Contributions are welcomed! Fork the repository, submit a pull request, or open an issue for bugs or feature requests.
 
-The project underscores the collaborative efforts of the team members in data acquisition, analysis, model training, and evaluation. Each team member's contribution played a crucial role in achieving the project's objectives, thereby advancing the field of fake news detection through data science and deep learning techniques.
+## License
+Licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
+## Acknowledgements
+- Thanks to all contributors and data providers like Kaggle. Special thanks to my instructor Sasanka Panda for helping me postulate my ideas into a cohesive open source repository. A huge thanks to [Ran Feldesh](https://github.com/RanFeldesh) for helping me learn about BERT and other Deep Learning Models.
+
+# Disclaimer
+
+The "BERTWatching" project is provided for educational purposes only. All content, including but not limited to code, algorithms, analysis, and visualizations, is intended to demonstrate concepts and techniques of true/fake analysis and is not intended for use in building real world opinions.
+
+The creators and contributors of this project make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained in this project for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 ---
 © 2024 Moh Jaiswal. All Rights Reserved.
