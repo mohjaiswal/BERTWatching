@@ -1,6 +1,6 @@
 # BERTWatching: Fake News Detection with BERT
 
-![Header Image](https://github.com/user/AquaPredictor/blob/main/HeaderImage.png)
+![[Header Image](https://github.com/mohjaiswal/BERTWatching/blob/d2ccbad72088be978319bd06b72d1e92c97a843e/BERTWatchingHeader.png)
 
 ## Table of Contents
 
