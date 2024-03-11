@@ -86,7 +86,7 @@ The project represents a significant step towards combating the proliferation of
 Contributions are welcomed! Fork the repository, submit a pull request, or open an issue for bugs or feature requests.
 
 ## License
-Licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+Licensed under the MIT License
 
 ## Acknowledgements
 - Thanks to all contributors and data providers like Kaggle. Special thanks to my instructor Sasanka Panda for helping me postulate my ideas into a cohesive open source repository. A huge thanks to [Ran Feldesh](https://github.com/RanFeldesh) for helping me learn about BERT and other Deep Learning Models.
