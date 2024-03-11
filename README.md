@@ -1,4 +1,4 @@
-# Fake News Detection with BERT
+# BERTWatching: Fake News Detection with BERT
 
 ![Header Image](https://github.com/user/AquaPredictor/blob/main/HeaderImage.png)
 
