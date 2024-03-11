@@ -30,7 +30,7 @@ In the digital age, the proliferation of false information and fake news has bec
 
 ### 1.2 Data <a name="data"></a>
 
-The project utilizes the WELFake dataset obtained from Kaggle, comprising 72,134 news articles labeled as real or fake. This dataset serves as a comprehensive corpus for training and evaluating machine learning models aimed at detecting misinformation in textual data.
+The project utilizes the WELFake [dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data) obtained from Kaggle, comprising 72,134 news articles labeled as real or fake. This dataset serves as a comprehensive corpus for training and evaluating machine learning models aimed at detecting misinformation in textual data.
 
 ### 1.3 Tasks <a name="tasks"></a>
 
