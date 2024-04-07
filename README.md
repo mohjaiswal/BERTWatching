@@ -74,9 +74,7 @@ An alternative approach involved fine-tuning the BERT model with all layers trai
 
 ## 4. Results <a name="results"></a>
 
-The machine learning algorithm trained for detecting fake
-
- news demonstrated promising results, achieving an accuracy of over 70% on the test dataset. A Streamlit application was developed to provide a user-friendly interface for users to input news articles and determine their authenticity.
+The machine learning algorithm trained for detecting fake news demonstrated promising results, achieving an accuracy of over 70% on the test dataset. A Streamlit application was developed to provide a user-friendly interface for users to input news articles and determine their authenticity.
 
 ## 5. Conclusions <a name="conclusions"></a>
 
